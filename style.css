@@ -1,0 +1,48 @@
+body {
+    font-family: 'Oswald', sans-serif;
+    width: 1024px;
+    margin: auto;
+}
+
+header {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+
+.head {
+    text-align: center;
+    background: url("./images/head.jpg");
+    color: white;
+    height: 512px;
+
+        }
+
+
+.avatar img {
+    height: 250px;
+    border-radius: 240px;
+}        
+
+.contact {
+    font-size: 1.5rem;
+    background: black;
+    
+}
+
+.leftblock {
+    display: flex;
+    flex-direction: column;
+}
+
+.rightblock {
+    display: flex;
+    flex-direction: column;
+}
+
+.columns {
+    display: flex;
+    
+}
+
