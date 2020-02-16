@@ -29,6 +29,11 @@ header {
     padding-top: 43px;
 }
 
+a {
+    color: white;
+}
+
+
 .contact {
     width: 400px;
     height: 400px;
@@ -58,4 +63,5 @@ header {
     display: flex;
     
 }
+
 
