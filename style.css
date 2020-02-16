@@ -1,0 +1,67 @@
+body {
+    font-family: 'Oswald', sans-serif;
+    width: 1024px;
+    margin: auto;
+}
+
+header {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+
+.head {
+    text-align: center;
+    background: url("./images/head.jpg");
+    color: white;
+    height: 512px;
+
+        }
+
+
+.avatar img {
+    height: 250px;
+    border-radius: 240px;
+}        
+
+.img {
+    padding-top: 43px;
+}
+
+a {
+    color: white;
+}
+
+
+.contact {
+    width: 400px;
+    height: 400px;
+    font-size: 25px;
+    background: black;
+    border-radius: 90%;
+}
+
+.user {
+    width: 400px;
+    height: 400px;
+    background: black; 
+    border-radius: 90%;
+}
+
+.leftblock {
+    display: flex;
+    flex-direction: column;
+}
+
+.rightblock {
+    display: flex;
+    flex-direction: column;
+}
+
+.columns {
+    display: flex;
+    
+}
+
+
